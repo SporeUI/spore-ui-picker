@@ -1,6 +1,6 @@
 {
   "name": "spore-ui-picker",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "各种picker",
   "main": "index.js",
   "dependencies": {
